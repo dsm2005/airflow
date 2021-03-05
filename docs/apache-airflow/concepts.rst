@@ -515,6 +515,8 @@ There are currently 3 different modes for how a sensor operates:
 
 .. list-table::
    :header-rows: 1
+   :widths: "auto"
+
 
    * - Schedule Mode
      - Description
